@@ -8,6 +8,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+![example branch parameter.](https://github.com/mona/special-octo-eureka/actions/workflows/grading.yml/badge.svg?branch=my-workflow)
+
 # Write JavaScript Actions
 
 _Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow._
