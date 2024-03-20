@@ -8,7 +8,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-![example branch parameter.](https://github.com/mona/special-octo-eureka/actions/workflows/grading.yml/badge.svg?branch=my-workflow)
+[![JS Actions](https://github.com/duchungluu/skills-write-javascript-actions/actions/workflows/my-workflow.yml/badge.svg)](https://github.com/duchungluu/skills-write-javascript-actions/actions/workflows/my-workflow.yml)
 
 # Write JavaScript Actions
 
